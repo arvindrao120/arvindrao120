@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Global tour and travel**
+- 🔭 I’m currently working on **Full stack Developer With Javascript,React and Node**
 
-- 🌱 I’m currently learning **Dart flutter**
+- 🌱 I’m currently learning **Dart, flutter**
 
 - 📫 How to reach me **arvindrao120@gmail.com**
 
